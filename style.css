@@ -25,3 +25,9 @@ header{
   z-index: 100px;
   text-decoration: none;
 }
+
+.logo {
+  font-size: 2em;
+  color: #359381;
+  pointer-events: none;
+}
