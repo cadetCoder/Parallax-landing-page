@@ -40,3 +40,9 @@ header {
   margin: 0 10px;
   font-weight: 600;
 }
+
+.navigation a:hover,
+.navigation a.active {
+  background-color: #359381;
+  color: #fff;
+}
