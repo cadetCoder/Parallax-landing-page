@@ -20,7 +20,7 @@ header {
   width: 100%;
   padding: 30px 100px;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   z-index: 100px;
   text-decoration: none;
@@ -30,6 +30,7 @@ header {
   font-size: 2em;
   color: #359381;
   pointer-events: none;
+  margin-right: 270px;
 }
 
 .navigation a {
